@@ -1,6 +1,8 @@
 # Neural-Networks-Perceptron
 
+# Simple Perceptron
 1 Iteration :
+
 ![image](https://user-images.githubusercontent.com/81099796/140975343-64701185-c33e-4556-9784-5281b654883f.png)
 
 1000 Iterations : 
